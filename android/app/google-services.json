@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582735203653",
+    "project_id": "ssip-signverse",
+    "storage_bucket": "ssip-signverse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582735203653:android:063031dd5f038e0fa9422c",
+        "android_client_info": {
+          "package_name": "com.example.ssip_signverse_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582735203653-u1q8ok6vati3cuq2r6ql8kjo4dvt88gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPGhXo_GIXYeyxLdjfEUpve3051M5D544"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582735203653-u1q8ok6vati3cuq2r6ql8kjo4dvt88gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
